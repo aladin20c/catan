@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boardgamePack_v2/boardgamePack_v2.iml" filepath="$PROJECT_DIR$/boardgamePack_v2/boardgamePack_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catan.iml" filepath="$PROJECT_DIR$/catan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projet capture/projet capture.iml" filepath="$PROJECT_DIR$/projet capture/projet capture.iml" />
+    </modules>
+  </component>
+</project>

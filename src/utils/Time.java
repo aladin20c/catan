@@ -1,0 +1,11 @@
+package utils;
+
+public class Time {
+    public static float timeStarted = System.nanoTime();
+    public static float getTime() { return (float)((System.nanoTime() - timeStarted) * 1E-9); }
+
+    public static long getCurrentTimeInSeconds() {
+        return System.currentTimeMillis() / 1000;
+    }
+
+}
