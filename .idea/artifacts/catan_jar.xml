@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="catan:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/catan_jar</output-path>
+    <root id="archive" name="catan.jar">
+      <element id="module-output" name="catan" />
+    </root>
+  </artifact>
+</component>
